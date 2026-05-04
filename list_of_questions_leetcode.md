@@ -1,3 +1,5 @@
+26. Remove Duplicates from Sorted Array
+70. Climbing Stairs
 8. String to Integer (atoi)
 36. Valid Sudoku
 1757. Recyclable and Low Fat Products
